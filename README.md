@@ -20,7 +20,7 @@ total fracked areas, followed by linear gel and slickwater.
 
 ## Workflow
 
-![Workflow] ![image](https://user-images.githubusercontent.com/68789630/173734863-4f9918e0-71b8-4465-830e-f53133d5b24c.png)
+![image](https://user-images.githubusercontent.com/68789630/173734863-4f9918e0-71b8-4465-830e-f53133d5b24c.png)
 
 
 ## Files
